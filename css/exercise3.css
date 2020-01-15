@@ -1,0 +1,32 @@
+body {
+    background-color: wheat;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: tomato;
+
+}
+
+h1 {
+    color: red;
+    border-bottom: solid;
+    font-size: 16px;
+}
+
+a{
+    color: green;
+}
+
+a:hover{
+    color: red;
+
+}
+
+figure{
+    text-align: right;
+}
+
+figcaption{
+    font-size: 15px;
+    color: black;
+    
+}
