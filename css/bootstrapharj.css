@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+}
+
+.container{
+    background-color: white;
+    max-width: 960px;
+}
+
+.bluebg{
+    background-color: cornflowerblue;
+}

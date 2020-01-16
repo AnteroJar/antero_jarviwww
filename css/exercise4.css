@@ -7,24 +7,25 @@ header{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-footer{
-    background-color: black;
-
-}
 
 .navbar {
     float: left;
     width: 30%;
     background-color: yellowgreen;
     
+    
 }
 
 .article{
     width: 70%;
     float: right;
+    margin-left: 40px;
+    
     
 }
-h1{
-   
-    
+
+.footer{
+    margin-top: 20px;;
+    background-color: black;
+
 }
